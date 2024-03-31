@@ -3,7 +3,7 @@
 I'm a dedicated Graduate student at Università di Pavia, navigating through the final year of my Master's Degree in Computer Science & Engineering at Politecnico di Milano. My academic and professional journey is driven by a profound passion for innovation, creativity, and the endless possibilities that technology presents.
 
 ## 🎓 Education
--**
+
 
 - **MSc Computer Science & Engineering** | Politecnico di Milano
 - **BSc Ingegneria Informatica** | Università di Pavia
@@ -32,7 +32,7 @@ When I'm not immersed in my studies you can find me:
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](#) (http://linkedin.com/in/grecya-d-angi%C3%B2-5009b41b5) or drop me an email at (grecya.dangio@gmail.com) for any interesting discussions, collaborations, or just a friendly chat about technology and beyond!
+Feel free to connect with me on [LinkedIn](#http://linkedin.com/in/grecya-d-angi%C3%B2-5009b41b5) or drop me an email at grecya.dangio@gmail.com for any interesting discussions, collaborations, or just a friendly chat about technology and beyond!
 
 ---
 
