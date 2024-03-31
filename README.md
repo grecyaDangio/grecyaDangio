@@ -32,7 +32,7 @@ When I'm not immersed in my studies you can find me:
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](#http://linkedin.com/in/grecya-d-angi%C3%B2-5009b41b5) or drop me an email at grecya.dangio@gmail.com for any interesting discussions, collaborations, or just a friendly chat about technology and beyond!
+Feel free to connect with me on [LinkedIn](http://linkedin.com/in/grecya-d-angi%C3%B2-5009b41b5) or drop me an email at grecya.dangio@gmail.com for any interesting discussions, collaborations, or just a friendly chat about technology and beyond!
 
 ---
 
