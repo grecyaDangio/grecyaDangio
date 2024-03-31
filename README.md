@@ -19,7 +19,7 @@ My curiosity and enthusiasm stretch across various domains, yet I find myself pa
 
 ## 🚀 Currently Working On
 
-- **Master's Thesis**: Engaged in rigorous research and application of my academic learnings to contribute meaningful insights to the field of Computer Science & Engineering and doing a intership at Cherrydata srl.
+- **Master's Thesis**: Engaged in rigorous research and application of my academic learnings to contribute meaningful insights to the field of Computer Science & Engineering and doing a intership at [Cherrydata] (https://www.cherry-data.com/).
 
 ## 🎨 About Me
 
